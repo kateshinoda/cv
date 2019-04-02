@@ -1,5 +1,5 @@
 body {
-  background-image: url("material/bg.jpg");
+  background-image: url("images/bg.jpg");
   background-size: 100%;
   background-color: #eaf1f9;
 }
@@ -18,49 +18,49 @@ body {
 #profilepic {
   height: 300px;
   width: 300px;
-  background-image: url("material/newpp.jpg");
+  background-image: url("images/newpp.jpg");
   background-size: contain;
   margin-top: 360px;
   margin-left: 150px;
 }
 
 #name {
-  background-image: url("material/name.png");
+  background-image: url("images/name.png");
   background-size: contain;
   margin-top: -394px;
   margin-left: 415px;
 }
 
 #zodiac {
-  background-image: url("material/zodiac.png");
+  background-image: url("images/zodiac.png");
   background-size: contain;
   margin-top: 87px;
   margin-left: 415px;
 }
 
 #webdev {
-  background-image: url("material/photo-1454165205744.png");
+  background-image: url("images/photo-1454165205744.png");
   background-size: contain;
   margin-top: -343px;
   margin-left: 558px;
 }
 
 #job {
-  background-image: url("material/job.png");
+  background-image: url("images/job.png");
   background-size: contain;
   margin-top: -344px;
   margin-left: 701px;
 }
 
 #photomanip {
-  background-image: url("material/thestorm.png");
+  background-image: url("images/thestorm.png");
   background-size: contain;
   margin-top: -343px;
   margin-left: 558px;
 }
 
 #bookaholic {
-  background-image: url("material/photo-1470984968366.png");
+  background-image: url("images/photo-1470984968366.png");
   background-size: contain;
   margin-top: -200px;
   margin-left: 845px;
@@ -69,7 +69,7 @@ body {
 #acrophobia {
   height: 100px;
   width: 100px;
-  background-image: url("material/photo-1472494805680.png");
+  background-image: url("images/photo-1472494805680.png");
   background-size: contain;
   margin-top: -293px;
   margin-left: 822px;
@@ -78,21 +78,21 @@ body {
 #arachnophobia {
   height: 100px;
   width: 100px;
-  background-image: url("material/photo-1440952306150.png");
+  background-image: url("images/photo-1440952306150.png");
   background-size: contain;
   margin-top: 258px;
   margin-left: 895px;
 }
 
 #nationality {
-  background-image: url("material/nationality.png");
+  background-image: url("images/nationality.png");
   background-size: contain;
   margin-top: -508px;
   margin-left: 989px;
 }
 
 #learning {
-  background-image: url("material/photo-1471107191679.png");
+  background-image: url("images/photo-1471107191679.png");
   background-size: contain;
   margin-top: 86px;
   margin-left: 989px;
